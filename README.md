@@ -1,0 +1,1 @@
+This is a simple GIT repository for an OpenClassrooms Assignment.
